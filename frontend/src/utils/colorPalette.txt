@@ -1,0 +1,28 @@
+------------------
+#1
+
+Wheat : #f6e8b1
+
+Manhattan: #f5cc8a
+
+Sandy brown: #f0a65c
+
+Zest: #e57e2a
+
+Orange Roughy: #c65315
+----------------------
+
+
+------------------
+#2
+
+Cherokee : #f9c785
+
+Sidecar: #f2e2b0
+
+Sprout: #b4d7a7
+
+Zest: #6eb4bf
+
+Blue Bayoux: #4e5e79
+----------------------
