@@ -102,9 +102,9 @@
 
 <br />
 <details>
-  <summary> <a> Landing </a></summary>
+  <summary> <a> Home </a></summary>
 
-![visualization](./public/img/Landing.png)
+![visualization](./frontend/public/img/Home.png)
 
 </details>
 
